@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/Lvl1.umap",
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/SS_GameMode.uasset",
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/SS_PlayerControler.uasset",
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/Inputs/IA_PlayerFire.uasset",
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/Inputs/IA_Player_Movement.uasset",
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/Inputs/IMC_Player.uasset",
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/Players/Player.uasset",
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/Players/Character.uasset",
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/Players/Character_SS.uasset"
+			]
+		}
+	]
+}
