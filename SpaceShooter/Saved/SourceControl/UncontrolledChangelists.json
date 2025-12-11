@@ -15,7 +15,16 @@
 				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/Players/Player.uasset",
 				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/Players/Character.uasset",
 				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/Players/Character_SS.uasset",
-				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/Players/SpaceShooter_Ammo.uasset"
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/Players/SpaceShooter_Ammo.uasset",
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/UI/SpaceShooter_HUD.uasset",
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/UI/SpaceShooter_GameWidget.uasset",
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/MainLevel.umap",
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/Enemigos/EnemigoBase.uasset",
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset",
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/Enemigos/M_Tech_Hex_Tile.uasset",
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/Enemigos/M_Tech_Hex_Tile_2.uasset",
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/Enemigos/EnemigoX.uasset",
+				"D:/Proyectos Unreal/SpaceShooterUE5/SpaceShooter/Content/SpaceShooter/BlockingVolume.uasset"
 			]
 		}
 	]
